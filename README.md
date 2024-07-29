@@ -2,6 +2,11 @@
 
 This is a web applications project written using Create Next App, Typescript, with Custom Accordion, Custom Slider and Background Images.
 
+## Demo
+
+Project hosted on Vercel: https://webdizainas.eu
+
+
 ## Features
 
 - Custom Accordion
